@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.yogeshandassociates.in/sitemap.xml
+Disallow: /private/
+Disallow: /admin/
